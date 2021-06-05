@@ -1,5 +1,5 @@
 # 2nd_ReactJS
-My second ReactJS repo. It's all about Multiselect Dropdown using useState Hook. ( Will post more... )
+My second ReactJS repo. It's all about Multiselect Dropdown using useState Hook.
 
 View it here - https://Yuvraj-Kaushal.github.io/2nd_ReactJS/
 
